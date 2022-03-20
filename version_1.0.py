@@ -4,8 +4,6 @@ python, onde o mesmo só deve ser utilizado para fins didáticos.
    GitHub profile: https://github.com/Dev-Rezende
    Curso: https://www.udemy.com/course/python-3-do-zero-ao-avancado/  --> Módulo 1
    Python version: 3.8
-
-Next Uptade: Validador e gerador de CNPJ
 """
 
 # Font Color
